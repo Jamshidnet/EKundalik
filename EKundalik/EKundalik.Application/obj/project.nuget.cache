@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nh5wU5PYY9EbB14z5VcdBY6a+hVvLVC+Kv5m3A+IZS01DJ2YyB05hqLIaKk1jM9vo9K2srkiht06naq71IFtbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jturs\\Source\\Repos\\EKundalik\\EKundalik.Application\\EKundalik.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jturs\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\jturs\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jturs\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
